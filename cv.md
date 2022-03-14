@@ -1,5 +1,7 @@
 # Ivan Zotov
 
+![Me](./img/me.png)
+
 ## About me
 
 Hello, world!
@@ -10,7 +12,7 @@ This page represents the level of my skills, future plans and my apps.
 
 So feel free to send me an email with your suggestions, or just to say “Hello and nice to meet you”.
 
-=====
+*****
 
 ## Contacts
 
@@ -18,7 +20,7 @@ So feel free to send me an email with your suggestions, or just to say “Hello 
 * **Discord:** Legat_14#4474
 * **GitHub:** [Legat14](https://github.com/Legat14)
 
-=====
+*****
 
 ## Skills
 
@@ -26,23 +28,22 @@ So feel free to send me an email with your suggestions, or just to say “Hello 
 
 Lang/Tool       | Level
 -----------|-----------
-HTML ![]() | ***--
-CSS ![]()  | ***--
-JavaScript ![]() | ***--
-Java ![]() | *----
-Postgre SQL ![]() | **---
-Git ![]() | **---
-Figma ![]() | ***--
+![HTML](./img/html.png) HTML | ***--
+![CSS](./img/css.png) CSS | ***--
+![JavaScript](./img/javascript.png) JavaScript | ***--
+![Java](./img/java.png) Java | *----
+![Postgre SQL](./img/postgresql.png) Postgre SQL | **---
+![Git](./img/git.png) Git | **---
+![Figma](./img/figma.png) Figma | ***--
 
 ### Languages
 
 Lang       | Level
 -----------|-----------
-Russian ![]() | ***** - Native
-English ![]()  | ***-- - Intermediate
-Finnish ![]() | ***-- - Basic
+![Russian](./img/flag_ru.png) Russian | ***** Native
+![English](./img/flag_en.png) English | ***-- Intermediate
+![Finnish](./img/flag_fi.png) Finnish | ***-- Basic
 
------
 *****
 
 ## My apps
@@ -62,9 +63,13 @@ Finnish ![]() | ***-- - Basic
 [Sea fight](https://legat14.github.io/sea_fight/)
 ![Sea fight]()
 
+## IT education
+
+**2022** - RS School - JavaScript Frontend Preschool
+
 ## Code sample
 
-'''
+```
 function validParentheses(parens){
   if (parens.length == 0) { //test for 0 parentheses
     return true;
@@ -88,7 +93,7 @@ function validParentheses(parens){
     return false;
   }
 }
-'''
+```
 
 ## Future plans
 
@@ -99,4 +104,4 @@ function validParentheses(parens){
 * Employment
 
 [Курс «JavaScript/Front-end»](https://rs.school/js/)
-![JavaScript/Front-end]()
+![JavaScript/Front-end](./img/rs_school_js.png)
