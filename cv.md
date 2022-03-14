@@ -1,6 +1,6 @@
 # Ivan Zotov
 
-![Me](./img/me.png)
+![Me](./img/me_round.png)
 
 ## About me
 
@@ -49,18 +49,23 @@ Lang       | Level
 ## My apps
 
 [On-line Harmonica](https://legat14.github.io/JS_30_Harp/)
+
 ![On-line Harmonica](./img/on-line_harmonica.jpg)
 
 [cssMemSlider](https://legat14.github.io/cssMemSlider/index.html)
+
 ![cssMemSlider](./img/cssMemSlider.jpg)
 
 [Portfolio site](https://legat14.github.io/portfolio/)
+
 ![Portfolio site](./img/portfolio.jpg)
 
 [Movie app](https://legat14.github.io/movie_app/)
+
 ![Movie app](./img/movie_app.jpg)
 
 [Sea fight](https://legat14.github.io/sea_fight/)
+
 ![Sea fight](./img/sea_fight.jpg)
 
 ## IT education
