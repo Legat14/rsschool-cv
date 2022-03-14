@@ -16,7 +16,7 @@ So feel free to send me an email with your suggestions, or just to say “Hello 
 
 * **E-mail:** zia-d@mail.ru
 * **Discord:** Legat_14#4474
-* **GitHub:** (Legat14)[https://github.com/Legat14]
+* **GitHub:** [Legat14](https://github.com/Legat14)
 
 =====
 
@@ -26,16 +26,21 @@ So feel free to send me an email with your suggestions, or just to say “Hello 
 
 Lang/Tool       | Level
 -----------|-----------
-HTML (!)[] | ***--
-CSS (!)[]  | ***--
-JavaScript (!)[] | ***--
-Java (!)[] | *----
-Postgre SQL (!)[] | **---
-Git (!)[] | **---
-Figma (!)[] | ***--
+HTML ![]() | ***--
+CSS ![]()  | ***--
+JavaScript ![]() | ***--
+Java ![]() | *----
+Postgre SQL ![]() | **---
+Git ![]() | **---
+Figma ![]() | ***--
+
+### Languages
 
 Lang       | Level
 -----------|-----------
-Russian (!)[] | ***** - Native
-English (!)[]  | ***-- - Intermediate
-Finnish (!)[] | ***-- - Basic
+Russian ![]() | ***** - Native
+English ![]()  | ***-- - Intermediate
+Finnish ![]() | ***-- - Basic
+
+=====
+
