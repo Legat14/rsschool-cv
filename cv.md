@@ -10,7 +10,7 @@ This page represents the level of my skills, future plans and my apps.
 
 So feel free to send me an email with your suggestions, or just to say “Hello and nice to meet you”.
 
-===
+=====
 
 ## Contacts
 
@@ -18,11 +18,24 @@ So feel free to send me an email with your suggestions, or just to say “Hello 
 * **Discord:** Legat_14#4474
 * **GitHub:** (Legat14)[https://github.com/Legat14]
 
-===
+=====
 
 ## Skills
 
 ### IT
 
-Lang   | Level
--------|-------
+Lang/Tool       | Level
+-----------|-----------
+HTML (!)[] | ***--
+CSS (!)[]  | ***--
+JavaScript (!)[] | ***--
+Java (!)[] | *----
+Postgre SQL (!)[] | **---
+Git (!)[] | **---
+Figma (!)[] | ***--
+
+Lang       | Level
+-----------|-----------
+Russian (!)[] | ***** - Native
+English (!)[]  | ***-- - Intermediate
+Finnish (!)[] | ***-- - Basic
