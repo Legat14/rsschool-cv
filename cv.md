@@ -42,7 +42,8 @@ Russian ![]() | ***** - Native
 English ![]()  | ***-- - Intermediate
 Finnish ![]() | ***-- - Basic
 
-=====
+-----
+*****
 
 ## My apps
 
@@ -88,3 +89,14 @@ function validParentheses(parens){
   }
 }
 '''
+
+## Future plans
+
+* RS School JavaScript Frontend course
+* Improvement of SQL
+* Improvement of Git
+* Improvement of Java
+* Employment
+
+[Курс «JavaScript/Front-end»](https://rs.school/js/)
+![JavaScript/Front-end]()
