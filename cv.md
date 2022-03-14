@@ -49,23 +49,25 @@ Lang       | Level
 ## My apps
 
 [On-line Harmonica](https://legat14.github.io/JS_30_Harp/)
-![On-line Harmonica]()
+![On-line Harmonica](./img/on-line_harmonica.jpg)
 
 [cssMemSlider](https://legat14.github.io/cssMemSlider/index.html)
-![cssMemSlider]()
+![cssMemSlider](./img/cssMemSlider.jpg)
 
 [Portfolio site](https://legat14.github.io/portfolio/)
-![Portfolio site]()
+![Portfolio site](./img/portfolio.jpg)
 
 [Movie app](https://legat14.github.io/movie_app/)
-![Movie app]()
+![Movie app](./img/movie_app.jpg)
 
 [Sea fight](https://legat14.github.io/sea_fight/)
-![Sea fight]()
+![Sea fight](./img/sea_fight.jpg)
 
 ## IT education
 
 **2022** - RS School - JavaScript Frontend Preschool
+
+*****
 
 ## Code sample
 
@@ -104,4 +106,5 @@ function validParentheses(parens){
 * Employment
 
 [Курс «JavaScript/Front-end»](https://rs.school/js/)
+
 ![JavaScript/Front-end](./img/rs_school_js.png)
